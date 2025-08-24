@@ -32,6 +32,7 @@ Applications of computational geometry include computer-aided design, robotics, 
 - [Point/Line Duality](https://people.eng.unimelb.edu.au/henli/programs/duality-demo/) - A type of mathematical duality frequently used in computational geometry algorithms.
 - [k-d tree](https://opendsa-server.cs.vt.edu/ODSA/AV/Development/kd-treeAV.html?selfLoggingEnabled=false&localMode=false&module=KDtree&JXOP-debug=true&JOP-lang=en&JXOP-code=java&scoringServerEnabled=false&threshold=1.0&points=0&required=False) - A method of partitioning k-dimensional space in an efficient way for searches like nearest neighbors.
 - [Configuration Space](https://www.youtube.com/watch?v=SBFwgR4K1Gk) - The space of possible configurations of an object like a robot.
+- [CGViz: Computational Geometry Interactive Visualizations](https://jes24.github.io/CGViz/) [(GitHub](https://github.com/JeS24/CGViz)] - CGViz is a web app for step-by-step visualizations of many algorithms, designed for exploration, teaching, and creating exportable visuals.
 
 ## Books
 
